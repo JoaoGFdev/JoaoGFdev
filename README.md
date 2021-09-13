@@ -3,4 +3,4 @@
 - 🔭 I’m currently on a scholarship
 - 🌱 I’m currently learning ReactJS and Node
 
-[!JoaoGF's github activity graph(https://activity-graph.herokuapp.com/graph?username=JoaoGF03&theme=react-dark)](https://github.com/JoaoGF03/github-readme-activity-graph)
+![JoaoGF's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoaoGF03&theme=react-dark)
