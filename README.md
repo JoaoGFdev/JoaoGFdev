@@ -17,3 +17,7 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+## 📈 GitHub Stats
+
+<img align="center" src="https://ghstats.joaogf.dev/api?username=joaogfdev&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="joaogfdev" /><img align="center" src="https://ghstats.joaogf.dev/api/top-langs/?username=joaogfdev&layout=compact&theme=github_dark&hide_border=true" alt="joaogfdev" />
